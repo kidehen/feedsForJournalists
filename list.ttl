@@ -1,3 +1,5 @@
+@prefix schema: <http://schema.org/> . 
+
 <http://beta.thehindu.com/news/?service=rss> a schema:Blog .
 <http://blog.archive.org/feed/> a schema:Blog .
 <http://en.rian.ru/export/rss2/index.xml> a schema:Blog .
